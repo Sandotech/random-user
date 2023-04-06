@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gndx/js-portfolio.git"
+    "url": "git@github.com:elsantodeveloper/random-user.git"
   },
   "keywords": [
     "javascript",
     "html",
     "css"
   ],
-  "author": "oscar barajas <oscar@gndx.dev>",
+  "author": "Diego Santos <dseonsantos76@gmail.com",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/gndx/js-portfolio/issues"
